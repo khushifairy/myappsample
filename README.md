@@ -1,2 +1,2 @@
-#MyApp
-This is my app for testing purpose.
+#My App
+This is my firts app for Git Hub. Just testing.
